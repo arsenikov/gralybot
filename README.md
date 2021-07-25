@@ -10,7 +10,7 @@ Brought to you by [@botivity](https://tx.me/botivity)
 
 `cd graly bot`
 
-`pip3 install requirements.txt` [Use venv](https://docs.python.org/3/tutorial/venv.html)`
+`pip3 install requirements.txt ` [Use venv](https://docs.python.org/3/tutorial/venv.html)`
 
  Edit [config.py](/config.py) appropriately , have a look at [example config.py](/sampleconfig.py) for an example.
  
