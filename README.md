@@ -16,3 +16,6 @@ Brought to you by [@botivity](https://tx.me/botivity)
  
 
  Then run with `python3 bot.py`
+
+credits:
+[ptb](https://github.com/python-telegram-bot) for their wrapper
