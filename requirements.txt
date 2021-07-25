@@ -1,0 +1,2 @@
+python-telegram-bot == 13.7
+gingerit == 0.8.2

@@ -1,0 +1,57 @@
+{
+
+    "name": "GralyBot",
+    "description": "A simple grammar correction bot",
+    "keywords": [
+
+        "telegram",
+
+        "snoopdogg",
+
+        "gangsta",
+
+        "chatbot"
+
+    ],
+
+    "website": "https://telegram.dog/botivity",
+    "repository": "https://github.com/pascalmaximus/gralybot",
+    "env": {
+
+        "BOT_TOKEN": {
+
+            "description": "Your bot token from @botfather",
+
+            "value": ""
+
+        }
+
+      },
+
+"addons": [],
+
+"buildpacks": [
+
+  {
+
+      "url": "heroku/python"
+
+  }
+
+],
+
+"formation": {
+
+  "worker": {
+
+      "quantity": 1,
+
+      "size": "free"
+
+  }
+
+}
+
+}
+
+
