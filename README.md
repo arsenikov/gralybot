@@ -1,5 +1,5 @@
 Obsolete
-gingerit is no longer.
+> gingerit is no longer.
 
 # gralybot
 A telegram bot that corrects grammar
