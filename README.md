@@ -1,11 +1,7 @@
 # gralybot
 A telegram bot that corrects grammar
 
-Brought to you by [@botivity](https://tx.me/botivity)
-
-# Deploy the easy way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PascalMaximus/gralybot)
-# The legacy way
+# Install
 `git clone https://github.com/PascalMaximus/gralybot`
 
 `cd graly bot`
